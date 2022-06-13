@@ -1,5 +1,5 @@
 ### Hi, Karthik 👋
-
+![](https://komarev.com/ghpvc/?username=karthikAdaptavant)
 ![GitHub followers](https://img.shields.io/github/followers/karthikAdaptavant?label=Follow&style=social)
 
 <!-- prettier-ignore-start -->
