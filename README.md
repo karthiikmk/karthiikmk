@@ -27,8 +27,7 @@ Here are a few things I've picked up along my learning journey.
  
  ## 📈 Stats 
 
-<img src="https://github-readme-stats.vercel.app/api?username=karthikAdaptavant&count_private=true&show_icons=true" />
- 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikAdaptavant&theme=buefy&hide_border=true" /></p>
 
 ## ❤️ Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://in.linkedin.com/in/adnanazmee](https://www.linkedin.com/in/karthik-mk-1b5202a1)) [![Twitter](https://img.shields.io/badge/Medium-000000.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ileriayoadebiyi) [![Github](https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://github.com/karthikAdaptavant) [![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025.svg?&style=for-the-badge&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/4144315/karthik)
