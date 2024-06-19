@@ -1,6 +1,6 @@
 # Hi, Karthik 👋
-![](https://komarev.com/ghpvc/?username=kartiksamy)
-![GitHub followers](https://img.shields.io/github/followers/kartiksamy?label=Follow&style=social)
+![](https://komarev.com/ghpvc/?username=karthiikmk)
+![GitHub followers](https://img.shields.io/github/followers/karthiikmk?label=Follow&style=social)
 
 I'm Software Developer, who loves building mobile applications. Dynamic and passionate individual with extensive experience in application development lifecycle from concept through delivery of next-generation applications and customisable solutions in an Agile Environment.
 
